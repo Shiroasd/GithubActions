@@ -1,7 +1,7 @@
 {
   "name": "tienda-perritos-backend",
   "version": "1.0.0",
-  "description": "API backend para tienda de alimentos para perritos con pipeline",
+  "description": "API backend para tienda de alimentos para perritos con pipelines",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
