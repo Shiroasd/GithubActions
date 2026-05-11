@@ -1,7 +1,7 @@
 /**
  * Frontend simple para CRUD de productos de la tienda de perritos.
  */
-//holaaa
+//holaaaa
 // Determinar la URL base de la API según el host
 // frontend/app.js
 
